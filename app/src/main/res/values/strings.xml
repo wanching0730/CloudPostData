@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CloudPostData</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+
+    <string name="network_unavailable">Network is unavailable</string>
+</resources>
